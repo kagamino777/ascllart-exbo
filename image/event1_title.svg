@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302" height="79" viewBox="0 0 302 79">
+  <defs>
+    <filter id="長方形_94" x="0" y="20" width="302" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#e06f22" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_231" data-name="グループ 231" transform="translate(0 -1218)">
+    <g transform="matrix(1, 0, 0, 1, 0, 1218)" filter="url(#長方形_94)">
+      <rect id="長方形_94-2" data-name="長方形 94" width="297" height="54" transform="translate(0 20)" fill="#6cd2ea" opacity="0.75"/>
+    </g>
+    <text id="自分らしく自分" transform="translate(71 1245.5)" fill="#fff" font-size="20" font-family="RoGSanSrfStd-Bd, Ro GSan Serif Std" letter-spacing="0.1em"><tspan x="0" y="0">自分らしく自分</tspan></text>
+    <text id="名前アスキー" transform="translate(71 1279)" fill="#fff" font-size="30" font-family="RoGSanSrfStd-Bd, Ro GSan Serif Std"><tspan x="0" y="0">名前アスキー</tspan></text>
+    <text id="_1" data-name="1" transform="translate(20 1283)" fill="#fff" font-size="74" font-family="HiraKakuProN-W4, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.792" height="76.905" viewBox="0 0 32.792 76.905">
+  <g id="グループ_10" data-name="グループ 10" transform="translate(-174.976 -497.996)">
+    <line id="線_1" data-name="線 1" y2="74.504" transform="translate(191.371 498.996)" fill="none" stroke="#e06f22" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_2" data-name="線 2" x2="14.994" y2="19.68" transform="translate(176.377 553.82)" fill="none" stroke="#e06f22" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_3" data-name="線 3" x1="14.994" y2="19.68" transform="translate(191.371 553.82)" fill="none" stroke="#e06f22" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text id="SCROLL" transform="translate(195.96 498.942) rotate(90)" fill="#e06f22" font-size="12.186" font-family="Helvetica" letter-spacing="0.06em"><tspan x="0" y="0">SCROLL</tspan></text>
+  </g>
+</svg>
